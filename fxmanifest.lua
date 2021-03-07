@@ -11,6 +11,7 @@
 -- █▄█ █▄█ █▄▀ ░█░ █▄█ █▄█ █▀█ █▀▄ █▄▀   █░▀░█ ██▄ █░▀█ █▄█
 
 -- Need assistance? Need a script made? Join here. https://discord.gg/wMD6Ed2szp
+-- I AM ALSO LOOKING FOR TEAM MEMBERS AND TESTERS IF YOU ARE INTERESTED JOIN THE DISCORD!!
 
 -- Resource Metadata
 fx_version "cerulean"
