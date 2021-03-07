@@ -32,5 +32,3 @@ server_scripts {
 	"server/main.lua",
 	"config/config.lua"
 }	
-
--- For support or any script ideas/requests, please join my Discord. https://discord.gg/SQXvn5a
