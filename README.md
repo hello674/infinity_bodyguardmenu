@@ -1,7 +1,7 @@
 # infinity_bodyguardmenu
 1NF1N17Y Developments bodyguard menu!
 
-Contact me here https://discord.gg/wMD6Ed2szp for assistance.
+I AM ALSO LOOKING FOR TEAM MEMBERS AND TESTERS IF YOU ARE INTERESTED JOIN THE DISCORD!! https://discord.gg/wMD6Ed2szp
 
 Features:
   * Permission based.
